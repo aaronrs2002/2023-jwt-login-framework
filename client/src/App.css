@@ -68,11 +68,6 @@ div.animated[role="alert"] {
 }
 
 
-.chartHeightMatch {
-  max-height: 355px;
-  overflow-y: auto;
-}
-
 
 /*END PRINT MEDIA*/
 
